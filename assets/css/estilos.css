@@ -19,7 +19,9 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+.bg-mistrabajos{
+  background-color: blueviolet;
+}
 /* Contacto */
 
 #Contacto form label {
